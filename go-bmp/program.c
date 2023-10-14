@@ -7,7 +7,8 @@ LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 // IF YOU WANT TO RUN THIS WITH:
 // gcc -o program9.exe program.c -lgdi32 -luser32 -lgdiplus
 // ./program9.exe
-// THEN YOU SHOULD UNCOMMENT BELOW:
+// then use: ../assets/creepysmiley.bmp
+// AND THEN YOU SHOULD UNCOMMENT BELOW:
 //int main(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow) {
 //    start(hInstance, hPrevInstance, lpCmdLine, nCmdShow);
 //    return 0;
